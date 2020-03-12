@@ -28,7 +28,6 @@
     <ProjectReference Include="..\DbServer.ContaCorrente.Api.Inicializador\DbServer.ContaCorrente.Api.Inicializador.csproj" />
     <ProjectReference Include="..\DbServer.ContaCorrente.Aplicacao\DbServer.ContaCorrente.Aplicacao.csproj" />
     <ProjectReference Include="..\DbServer.ContaCorrente.Dominio\DbServer.ContaCorrente.Dominio.csproj" />
-    <ProjectReference Include="..\DbServer.Comum\DbServer.Comum.csproj" />
   </ItemGroup>
 
 </Project>
