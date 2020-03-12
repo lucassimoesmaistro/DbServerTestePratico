@@ -17,7 +17,6 @@
     <ProjectReference Include="..\DbServer.ContaCorrente.Aplicacao\DbServer.ContaCorrente.Aplicacao.csproj" />
     <ProjectReference Include="..\DbServer.ContaCorrente.Dominio\DbServer.ContaCorrente.Dominio.csproj" />
     <ProjectReference Include="..\DbServer.ContaCorrente.Repositorio\DbServer.ContaCorrente.Repositorio.csproj" />
-    <ProjectReference Include="..\DbServer.Comum\DbServer.Comum.csproj" />
   </ItemGroup>
 
 </Project>

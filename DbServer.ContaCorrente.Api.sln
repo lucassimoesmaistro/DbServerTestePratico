@@ -21,7 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{B94411
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbServer.ContaCorrente.Dominio.Teste", "test\DbServer.ContaCorrente.Dominio.Teste\DbServer.ContaCorrente.Dominio.Teste.csproj", "{04E600EF-061C-4B28-B83E-C8817480C8D9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbServer.Comum", "src\DbServer.Comum\DbServer.Comum.csproj", "{629EAD7D-21FB-42CD-B929-BBB0A588833C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbServer.Comum", "src\DbServer.Comum\DbServer.Comum.csproj", "{D9AEF20F-309B-49EC-8574-2B56704F2003}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,10 @@ Global
 		{04E600EF-061C-4B28-B83E-C8817480C8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04E600EF-061C-4B28-B83E-C8817480C8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04E600EF-061C-4B28-B83E-C8817480C8D9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{629EAD7D-21FB-42CD-B929-BBB0A588833C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{629EAD7D-21FB-42CD-B929-BBB0A588833C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{629EAD7D-21FB-42CD-B929-BBB0A588833C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{629EAD7D-21FB-42CD-B929-BBB0A588833C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9AEF20F-309B-49EC-8574-2B56704F2003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9AEF20F-309B-49EC-8574-2B56704F2003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9AEF20F-309B-49EC-8574-2B56704F2003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9AEF20F-309B-49EC-8574-2B56704F2003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
